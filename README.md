@@ -168,7 +168,7 @@ Tested with:
 
 ## 📄 License
 
-MIT © 2025
+Apache © 2025
 
 ---
 

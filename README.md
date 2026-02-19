@@ -1,4 +1,3 @@
-<img width="384" height="788" alt="image" src="https://github.com/user-attachments/assets/c991e4e7-cb74-4304-b99e-0f88662fcd9c" /># LenseLab
 🔮 AI-Powered Parallel Reality Lens — Upload a photo, choose a style, and peer into a parallel universe through an interactive magic lens. Powered by Gemini AI.
 
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/e500d902-b220-4a4f-b2f0-cb9061138474" />
